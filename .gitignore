@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+bin/
+
+# CMake generated
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile.cmake
+
+# Compiled objects
+*.o
+*.a
+*.out
+
+# Runtime block device files
+*.img
+*.bin
+*.fs
